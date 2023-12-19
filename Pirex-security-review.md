@@ -2,10 +2,6 @@
 
 A smart contract security review can never verify the complete absence of vulnerabilities. This is a time, resource and expertise bound effort where I try to find as many vulnerabilities as possible. I can not guarantee 100% security after the review or even if the review will find any problems with your smart contracts. Subsequent security reviews, bug bounty programs and on-chain monitoring are strongly recommended.
 
-# Introduction
-
-A time-boxed security review of the **Pirex** protocol was done by **pashov**, with a focus on the security aspects of the application's smart contracts implementation.
-
 # About Pirex
 
 Pirex allows ETH holders to receive staking rewards through pooling. Staking through Pirex you benefit through block validation/attestation & MEV yield and compounding rewards through `pxETH`. The `pxETH` token is the Pirex-wrapped version of ETH, where its holders can earn yield by staking in `AutoPxETH` or just redeem their tokens for ETH.
